@@ -6,7 +6,7 @@ A comprehensive, production ready template supporting **multiple technology stac
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/universal-crud-template.svg?style=social&label=Star)](https://github.com/yourusername/universal-crud-template)
+[![GitHub stars](https://img.shields.io/github/stars/jstjst1/universal-crud-template.svg?style=social&label=Star)](https://github.com/jstjst1/universal-crud-template)
 
 ---
 
@@ -41,7 +41,7 @@ A comprehensive, production ready template supporting **multiple technology stac
 ### **🖱️ Method 1: One-Click Launch (Recommended)**
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/universal-crud-template.git
+git clone https://github.com/jstjst1/universal-crud-template.git
 cd universal-crud-template
 
 # Just double-click one of these:
@@ -211,7 +211,7 @@ universal-crud-template/
 ### **Quick Setup Commands**
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/universal-crud-template.git
+git clone https://github.com/jstjst1/universal-crud-template.git
 cd universal-crud-template
 
 # Install all dependencies (Windows)
@@ -266,7 +266,7 @@ This project is licensed under the **MIT License** - see [LICENSE](LICENSE) file
 ## 🚀 **Get Started Today!**
 
 ```bash
-git clone https://github.com/yourusername/universal-crud-template.git
+git clone https://github.com/jstjst1/universal-crud-template.git
 cd universal-crud-template
 # Double-click LAUNCH.bat and choose your stack!
 ```
