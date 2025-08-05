@@ -1,0 +1,50 @@
+{
+  "name": "universal-crud-template",
+  "version": "1.0.0",
+  "description": "Complete multi-stack development solution with 4 backends, 3 frontends, and 3 databases",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Choose a technology stack using LAUNCH.bat or LAUNCH.ps1\"",
+    "install-all": "npm run install-node && npm run install-react && npm run install-angular",
+    "install-node": "cd backend/node-express && npm install",
+    "install-react": "cd frontend/react && npm install", 
+    "install-angular": "cd frontend/angular && npm install",
+    "start-node": "cd backend/node-express && npm start",
+    "start-react": "cd frontend/react && npm run dev",
+    "start-angular": "cd frontend/angular && ng serve",
+    "test": "echo \"Use individual technology stack test commands\""
+  },
+  "keywords": [
+    "crud",
+    "template",
+    "multi-stack",
+    "nodejs",
+    "react",
+    "angular",
+    "java",
+    "spring-boot",
+    "python",
+    "flask",
+    "php",
+    "mysql",
+    "postgresql",
+    "sqlite",
+    "full-stack",
+    "universal",
+    "boilerplate"
+  ],
+  "author": "Universal CRUD Template Contributors",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/universal-crud-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/universal-crud-template/issues"
+  },
+  "homepage": "https://github.com/yourusername/universal-crud-template#readme",
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  }
+}
